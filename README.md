@@ -1,4 +1,4 @@
-# Badger Chat
+# Badger Chat- React
 
 Badger Chat is a simple chatroom application built with React Native to demonstrate front-end mobile development skills and integration with secure JWT-based APIs.
 
